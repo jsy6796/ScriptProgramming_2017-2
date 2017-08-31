@@ -17,7 +17,7 @@ Repository for example codes for the Script Programming class (02분반).
 - LintCode: http://www.lintcode.com/en/
 
 ## Development Environment
-- Python 3.5: https://www.python.org/
+- Python 3.6: https://www.python.org/
 - Git: https://git-scm.com/
 - SourceTree (Git GUI Client): https://www.sourcetreeapp.com/
 - github: https://github.com/
