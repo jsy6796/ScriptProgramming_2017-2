@@ -1,4 +1,4 @@
-# ScriptProgramming 2017년도 2학기
+# Script Programming 2017년도 2학기
 Repository for example codes for the Script Programming class (02분반).
 
 ## References
